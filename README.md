@@ -1,4 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/qR-atX5d)
+<img width="715" height="118" alt="image" src="https://github.com/user-attachments/assets/4372df7d-a5df-4118-8fdc-646463be8907" />[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/qR-atX5d)
 # 🐍 [2026-01] 나만의 파이썬 소프트웨어 개발 프로젝트
 
 ## 1. 시나리오 제목
@@ -68,18 +68,17 @@
     * **프롬프트 요약:** "파이썬 기초 문법 단계(리스트 → 조건문 → 반복문 → 함수/딕셔너리)에 맞춰, '포켓몬 트레이너' 프로그램이 어떻게 발전할 수 있을지 4단계 기능 확장 로드맵을 제안해줘."
     * **적용 내용:** 단순 메뉴 선택을 넘어, '기초 포켓몬 선택 및 상태창 구축(1차) → 랜덤 배틀 및 도감 등록 시스템(2차) → While 루프를 활용한 무한 모험 시스템(3차) → 딕셔너리와 함수를 활용한 스킬 시스템 및 다수 포켓몬 보유 기능(4차)'으로 이어지는 체계적인 개발 방향성을 확립함.
     
-### **🛠️ Troubleshooting & 기술 회고:**
-(예시) 
-1. **문제 1: 숫자를 입력했는데 계산이 안 되는 현상 (TypeError)**
-    * **원인:** `input()`으로 받은 데이터는 기본적으로 '글자'라서 숫자와 곱셈 연산이 불가능했음.
-    * **해결:** `int()`와 `float()` 함수를 사용하여 입력값을 숫자로 바꾸는 '형변환' 마법을 부려 해결함.
-2. **문제 2: 조건문 뒤에 자꾸 생기는 빨간 줄 (SyntaxError)**
-    * **원인:** `if`와 `elif` 조건식 끝에 마법의 기호인 `:`(콜론)을 자꾸 빠뜨려서 발생함.
-    * **해결:** 파이썬의 모든 조건문과 반복문 끝에는 항상 땡땡(`:`)이 들어가야 한다는 규칙을 학습하고 수정함.
-     
+### **🛠️ Troubleshooting & 기술 회고:** 
+1. **문제 1: 메뉴 선택 시 조건문이 작동하지 않는 현상 (자료형 오류)**
+    * **원인:** 파이썬의 input() 함수로 받은 값은 숫자가 아닌 **'문자열(String)'**로 저장됨. 즉, 숫자 1과 문자 '1'을 다르게 인식하여 조건문이 False를 반환함.
+    * **해결:** menu = int(input())과 같이 **정수형 변환(Type Casting)**을 거치거나, 조건식의 비교 대상을 문자열(if menu == '1':)로 수정하여 데이터 타입의 일관성을 맞춤으로써 해결함.
+
 ### **📁 증빙 자료:**
   * [2차_AI협업캡처.pdf 첨부 완료] (첨부 후 링크)
-  * [2차과제_실행결과.jpg]
+  * <img width="715" height="118" alt="image" src="https://github.com/user-attachments/assets/55f0a941-27be-4029-9fc4-52b416787f0a" />
+  * <img width="523" height="299" alt="image" src="https://github.com/user-attachments/assets/895b2aa7-ad03-4fc3-8ce7-95b96264d5e2" />
+
+
 <br>
 
 ## 🟨 [3차 과제: V3.0] 무한 루프와 메뉴 시스템 (반복문) - 향후 작성 예정
