@@ -95,7 +95,7 @@
      * **해결:** 2번 메뉴(야생 포켓몬 배틀) 이벤트가 일어나기 전에 if문을 추가하여 포켓몬의 체력이 0 이하라면 이벤트가 일어나지 않도록 하고, 포켓몬 센터로 가라는 문구가 뜨게 함. 
      
 ### **📁 증빙 자료:**
-  * [3차_AI협업캡처.pdf 첨부 완료] (첨부 후 링크)
+  * https://github.com/IE-PY-2026-1/ie-py-homework-allpan29/blob/main/3%EC%B0%A8_AI%ED%98%91%EC%97%85%EC%BA%A1%EC%B2%98.pdf
   * <img width="497" height="279" alt="image" src="https://github.com/user-attachments/assets/50abf42e-5f8a-4de5-98f5-f91ba3a23e56" />
   * <img width="529" height="243" alt="image" src="https://github.com/user-attachments/assets/581c8410-9bd2-4bf7-8c1c-9284622d707a" />
 
