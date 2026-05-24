@@ -35,6 +35,9 @@ while True:
         print(f"대표 포켓몬: {my_pokemon_list[0]} (HP: {my_pokemon_hp}/100)")
 
     elif menu == '2':
+        if my_pokemon_hp <= 0:
+            print('싸울 수 있는 포켓몬이 없습니다! 포켓몬 센터로 가세요')
+            continue
         wild_pokemons = ["피카츄", "구구", "꼬렛", "캐터피"]
         wild_one = random.choice(wild_pokemons)
         print(f"\n앗! 야생의 {wild_one}(이)가 나타났다!")
