@@ -119,8 +119,7 @@
      * **해결:** 함수 내부 상단에 global my_pokemon_hp, pokedex를 명시적으로 선언하여, 전역 공간에 있는 데이터를 직접 참조하고 수정하도록 해결함.
      
 ### **📁 증빙 자료:**
-  * [4차_AI협업캡처.pdf 첨부 완료] (첨부 후 링크)
-  * [4차과제_실행결과.jpg]
+  * (https://github.com/IE-PY-2026-1/ie-py-homework-allpan29/blob/main/4%EC%B0%A8_AI%ED%98%91%EC%97%85%EC%BA%A1%EC%B2%98.pdf)
 <img width="866" height="496" alt="스크린샷 2026-06-12 225959" src="https://github.com/user-attachments/assets/4c9ae695-ac52-4c30-ae61-3e989809f38e" />
 <img width="732" height="568" alt="스크린샷 2026-06-12 230014" src="https://github.com/user-attachments/assets/254888f9-7a15-426e-8a24-90eecb708efa" />
 <img width="805" height="696" alt="스크린샷 2026-06-12 230023" src="https://github.com/user-attachments/assets/b3a494b7-3f2b-4ba2-9cc9-ee33d51e3c75" />
