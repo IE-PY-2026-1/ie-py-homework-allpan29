@@ -122,7 +122,7 @@
   * [4차_AI협업캡처.pdf 첨부 완료] (첨부 후 링크)
   * [4차과제_실행결과.jpg]
 <img width="866" height="496" alt="스크린샷 2026-06-12 225959" src="https://github.com/user-attachments/assets/4c9ae695-ac52-4c30-ae61-3e989809f38e" />
-<img width="805" height="696" alt="스크린샷 2026-06-12 230023" src="https://github.com/user-attachments/assets/b3a494b7-3f2b-4ba2-9cc9-ee33d51e3c75" />
 <img width="732" height="568" alt="스크린샷 2026-06-12 230014" src="https://github.com/user-attachments/assets/254888f9-7a15-426e-8a24-90eecb708efa" />
+<img width="805" height="696" alt="스크린샷 2026-06-12 230023" src="https://github.com/user-attachments/assets/b3a494b7-3f2b-4ba2-9cc9-ee33d51e3c75" />
 
 <br>
